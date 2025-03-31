@@ -1,0 +1,33 @@
+.quadrado{
+    display: block;
+    background-color: rgb(225, 225, 225);
+    height: 300px;
+    width: 300px;
+   margin-left: 450px;
+   margin-top: 100px;
+}
+h2{
+    font-size: 30px;
+    text-align: center;
+}
+label{
+margin-right: 120px;
+}
+#Altura{
+  height: 30px;
+}
+.Alt{
+    text-align: center;
+}
+
+.Pes{
+    text-align: center;
+    margin-top: 20px;  
+}
+#Peso{
+    height: 30px;
+}
+
+#Calcular{
+    margin-top: 20px;
+}
